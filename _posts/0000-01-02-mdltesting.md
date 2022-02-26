@@ -2,7 +2,7 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+A la voz del carnaval
 Utiliza la flecha hacia la izquierda para volver!
 ---
 ¿Cuál es la flecha?
